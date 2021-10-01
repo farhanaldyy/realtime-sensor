@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "82721137101",
+    "firebase_url": "https://cleany-app-9105a-default-rtdb.firebaseio.com",
+    "project_id": "cleany-app-9105a",
+    "storage_bucket": "cleany-app-9105a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82721137101:android:672b047161ce0d9ad66484",
+        "android_client_info": {
+          "package_name": "com.example.iot_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82721137101-lb5srevvdm0fjasuvedkdl0q8e9b17d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMT_B5QoXiIb6cXTia3y_VwAcAZC-9Rtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82721137101-lb5srevvdm0fjasuvedkdl0q8e9b17d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
